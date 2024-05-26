@@ -62,6 +62,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PRIYANSHU2026&show_icons=true&locale=en&layout=compact" alt="PRIYANSHU2026" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&locale=en" alt="PRIYANSHU2026" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&locale=en&count_private=true&include_all_commits=true&hide_title=false&show_owner=true" alt="PRIYANSHU2026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&" alt="PRIYANSHU2026" /></p>
