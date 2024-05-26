@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning more about **Advanced AI in Finance**
 
-- 👯 I’m looking to collaborate on **Fintech projects**
+- 👯 I’m looking to collaborate on **AI&ML projects**
 
-- 💬 Ask me about **Financial Technology, Data Structure, Object-Oriented Programming, Cybersecurity**
+- 💬 Ask me about **AI Technology, Data Structure, Object-Oriented Programming, Cybersecurity, Problem solving**
 
 - 📫 How to reach me **techarena955@gmail.com**
 
