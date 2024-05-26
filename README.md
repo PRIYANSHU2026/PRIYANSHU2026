@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning more about **Advanced AI in Finance**
 
-- 👯 I’m looking to collaborate on **Fintech projects**
+- 👯 I’m looking to collaborate on **Research projects**
 
 - 💬 Ask me about **Financial Technology, Data Structure, Object-Oriented Programming, Cybersecurity**
 
