@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Priyanshu Tiwari</h1>
 <h3 align="center">An OPEN SOURCE CONTRIBUTOR from India</h3>
 
@@ -11,7 +10,7 @@
 
 - 🌱 I’m currently learning more about **Advanced AI in Finance**
 
-- 👯 I’m looking to collaborate on **Research projects**
+- 👯 I’m looking to collaborate on **Fintech projects**
 
 - 💬 Ask me about **Financial Technology, Data Structure, Object-Oriented Programming, Cybersecurity**
 
@@ -19,7 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://ab.netlif.appl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyanshu Tiwari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priyanshu Tiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Priyanshu Tiwari" height="30" width="40" /></a>
+<a href="https://facebook.com/PRIYANSHU2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Priyanshu Tiwari" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=PRIYANSHU2026" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,6 +63,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&locale=en" alt="PRIYANSHU2026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&" alt="PRIYANSHU2026" /></p>
-
----
 
