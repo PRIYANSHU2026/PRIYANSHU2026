@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working in a **Research Project**
 
-- 🌱 I’m currently learning more about **Advanced AI in Finance**
+- 🌱 I’m currently learning more about **Advanced AI in Medical**
 
-- 👯 I’m looking to collaborate on **Fintech projects**
+- 👯 I’m looking to collaborate on **Deep neural network projects**
 
 - 💬 Ask me about **Financial Technology, Data Structure, Object-Oriented Programming, Cybersecurity**
 
