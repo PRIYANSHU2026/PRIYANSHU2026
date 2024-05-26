@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working in a **Research Project**
 
-- 🌱 I’m currently learning more about  **Advanced AI in deep neural network**
+- 🌱 I’m currently learning more about **Advanced AI in Finance**
 
 - 👯 I’m looking to collaborate on **Fintech projects**
 
-- 💬 Ask me about **AI Technology, Data Structure, Object-Oriented Programming, Cybersecurity**
+- 💬 Ask me about **Financial Technology, Data Structure, Object-Oriented Programming, Cybersecurity**
 
 - 📫 How to reach me **techarena955@gmail.com**
 
@@ -83,9 +83,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PRIYANSHU2026&show_icons=true&locale=en&layout=compact" alt="PRIYANSHU2026" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PRIYANSHU2026&show_icons=true&locale=en&layout=compact&hide=cpp" alt="PRIYANSHU2026" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&locale=en" alt="PRIYANSHU2026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&" alt="PRIYANSHU2026" /></p>
-
