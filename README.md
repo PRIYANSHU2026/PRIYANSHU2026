@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI&ML projects**
 
-- 💬 Ask me about **AI Technology, Data Structure, Object-Oriented Programming, Cybersecurity, Problem solving**
+- 💬 Ask me about **AI Technology, Data Structure, Object-Oriented Programming, Cybersecurity, Problem solving, Devloper**
 
 - 📫 How to reach me **techarena955@gmail.com**
 
