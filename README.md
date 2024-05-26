@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Deep neural network projects**
 
-- 💬 Ask me about **AI Technology, Data Structure, Object-Oriented Programming, Cybersecurity**
+- 💬 Ask me about **AI Technology, Data Structure, Object-Oriented Programming, Cybersecurity, Problem solving**
 
 - 📫 How to reach me **techarena955@gmail.com**
 
