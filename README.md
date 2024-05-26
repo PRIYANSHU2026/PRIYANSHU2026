@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Priyanshu Tiwari</h1>
 <h3 align="center">An OPEN SOURCE CONTRIBUTOR from India</h3>
 
@@ -38,9 +37,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="msql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.hackerrank.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.png" alt="hackerrank" width="40" height="40"/> 
-  </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
@@ -59,17 +55,8 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
-  <a href="https://mediapipe.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://mediapipe.dev/images/mediapipe_logo_color.png" alt="mediapipe" width="40" height="40"/> 
-  </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/> 
-  </a>
-  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="dsa" width="40" height="40"/> 
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Artificial_neural_network" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Neural_network_icon.svg" alt="neural network" width="40" height="40"/> 
   </a>
 </p>
 
@@ -78,4 +65,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&locale=en" alt="PRIYANSHU2026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&" alt="PRIYANSHU2026" /></p>
-
