@@ -122,10 +122,7 @@
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
       <br>
       <strong>Innovator</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="90" />
-      <br>
+   
       
     </td>
   </tr>
