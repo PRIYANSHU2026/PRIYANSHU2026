@@ -67,8 +67,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&" alt="PRIYANSHU2026" /></p>
 
 
-
-
 <h2 align="center">📂 Open Source Contribution 🤝</h2>
 <br/>
 
@@ -122,9 +120,10 @@
       <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
       <br>
       <strong>Innovator</strong>
-   
-      
     </td>
+
+    
   </tr>
 </table>
 <br>
+
