@@ -65,3 +65,69 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&locale=en" alt="PRIYANSHU2026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&" alt="PRIYANSHU2026" /></p>
+
+
+
+
+<h2 align="center">📂 Open Source Contribution 🤝</h2>
+<br/>
+
+<table align="center">
+  <tr align="center">
+      <td style="border-right: 1px dotted #eeeeef;" align="center">
+      <a href="https://www.linkedin.com/posts/meetdodiya_gssoc-opensource-girlscript-activity-7218302957224640512-XzJX?utm_source=share&utm_medium=member_desktop">
+        <img src="https://github.com/MeetDOD/MeetDOD/blob/main/gssoc.png" alt="GirlScript Summer of Code" width="100" />
+        <br>
+      </a>
+      <strong>GirlScript Summer of Code (GSSOC'24)</strong>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Badges from GSSOC'24</h2>
+
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
+      <br>
+      <strong>Postman</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
+      <br>
+      <strong>Explorer</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+      <br>
+      <strong>Adventurer</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
+      <br>
+      <strong>Trailblazer</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="86" />
+      <br>
+      <strong>SummitSeeker</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
+      <br>
+      <strong>Champion</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
+      <br>
+      <strong>Innovator</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="90" />
+      <br>
+      
+    </td>
+  </tr>
+</table>
+<br>
