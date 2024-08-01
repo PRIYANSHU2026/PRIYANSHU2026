@@ -121,9 +121,11 @@
       <br>
       <strong>Innovator</strong>
     </td>
-
-    
+    <td align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="90" />
+      <br>
+      <strong>Conqurer</strong>
+    </td>
   </tr>
 </table>
 <br>
-
