@@ -61,7 +61,7 @@
 </p>
 
  <summary><b>⚙️GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
+<a href="https://github.com/PRIYANSHU2026">
    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
    <img height="155em" src="https://raw.githubusercontent.com/Sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
  <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
