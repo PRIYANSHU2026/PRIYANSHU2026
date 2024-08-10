@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Priyanshu Tiwari</h1>
 <h3 align="center">An OPEN SOURCE CONTRIBUTOR from India</h3>
 
@@ -60,14 +61,11 @@
   </a>
 </p>
 
- <summary><b>⚙️GitHub Analytics</b></summary>
-<a href="https://github.com/PRIYANSHU2026">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-   <img height="155em" src="https://raw.githubusercontent.com/Sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Sanjay K V github stats" />
- <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
-  <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Sanjay K V github stats" />
-   <img height="160em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/4-productive-time.svg" /><br>
-     
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PRIYANSHU2026&show_icons=true&locale=en&layout=compact" alt="PRIYANSHU2026" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&locale=en" alt="PRIYANSHU2026" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&" alt="PRIYANSHU2026" /></p>
 
 
 <h2 align="center">📂 Open Source Contribution 🤝</h2>
