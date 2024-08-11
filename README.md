@@ -61,9 +61,19 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu2026&show_icons=true&locale=en&layout=compact" alt="priyanshu2026" /></p>
+<h2>Github Stats📊</h2>
+<br>
+<div align=center>
+<img  width=500 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRIYANSHU2026&theme=github"/>
+<!-- <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANSHU2026&layout=donut&border_radius=10"/> -->
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRIYANSHU2026&theme=github"/>
+<!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PRIYANSHU2026&theme=github" alt="readme stats" />
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRIYANSHU2026&theme=github" alt="readme stats" />
+<img width=243 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PRIYANSHU2026&theme=github" alt="readme stats" />
+<!-- <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PRIYANSHU2026&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu2026&show_icons=true&locale=en" alt="priyanshu2026" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu2026&" alt="priyanshu2026" /></p>
-
+</div>
+<details>
+<summary><b>Feeding...</b></summary><br> in this replace with PRIYANSHU2026
+</details>
