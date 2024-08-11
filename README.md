@@ -75,5 +75,5 @@
 
 </div>
 <details>
-<summary><b>Feeding...</b></summary><br> in this replace with PRIYANSHU2026
+<summary><b>Feeding...</b></summary><br> ![Snake animation](https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake-dark.svg)
 </details>
