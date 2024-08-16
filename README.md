@@ -4,19 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PRIYANSHU2026&label=Profile%20views&color=0e75b6&style=flat" alt="PRIYANSHU2026" /> </p> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&lines=+I+am+a+Machine+learning+engineer;Learning+new+skills+everyday" alt="Typing SVG" /></a>
-<!-- For the first part of the trophies -->
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PRIYANSHU2026&column=6&row=1" alt="PRIYANSHU2026" />
-  </a> 
-</p>
-
-<!-- For the last trophy, center it -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PRIYANSHU2026&column=1&row=1" alt="PRIYANSHU2026" />
-  </a> 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PRIYANSHU2026" alt="PRIYANSHU2026" /></a> </p> this one make last trophy in center
 
 
 - 🔭 I’m currently working in a **Research Project**
