@@ -132,8 +132,6 @@ Exploring the frontiers of Artificial Intelligence with real-world impact.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&theme=radical" alt="PRIYANSHU2026" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
