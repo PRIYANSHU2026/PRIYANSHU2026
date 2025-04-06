@@ -21,29 +21,136 @@
 
 ---
 
-### 🔭 Currently Working On
-- Research Project in Advanced AI Applications
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 800px; margin: 0 auto;">
 
-### 🌱 Currently Learning
-- Advanced AI in Finance
-- Large Language Models (LLMs)
-- MLOps
+  <!-- Animated Header -->
+  <h2 style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; background-clip: text; color: transparent; font-size: 2.5rem; margin-bottom: 2rem; text-align: center; animation: gradient 3s ease infinite; background-size: 200% 200%;">
+    My Current Focus
+  </h2>
 
-### 👯 Looking to Collaborate On
-- AI/ML Projects
-- Open Source Contributions
-- Research Papers
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
 
-### 💬 Ask Me About
-- Machine Learning & Deep Learning
-- Data Structures & Algorithms
-- Cybersecurity Fundamentals
-- Full-stack Development
+    <!-- Currently Working On -->
+    <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2); border: 1px solid rgba(255, 255, 255, 0.1); transition: transform 0.3s ease;">
+      <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-right: 1rem;">
+          <span style="font-size: 1.5rem;">🔭</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Currently Working On</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Research Project in Advanced AI Applications
+        </li>
+      </ul>
+    </div>
 
-### 📫 How to Reach Me
-📧 Email: [techarena955@gmail.com](mailto:techarena955@gmail.com)
+    <!-- Currently Learning -->
+    <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2); border: 1px solid rgba(255, 255, 255, 0.1); transition: transform 0.3s ease;">
+      <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+        <div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-right: 1rem;">
+          <span style="font-size: 1.5rem;">🌱</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Currently Learning</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Advanced AI in Finance
+        </li>
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Large Language Models (LLMs)
+        </li>
+        <li style="padding: 0.5rem 0; display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> MLOps
+        </li>
+      </ul>
+    </div>
 
----
+    <!-- Looking to Collaborate On -->
+    <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2); border: 1px solid rgba(255, 255, 255, 0.1); transition: transform 0.3s ease;">
+      <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+        <div style="background: linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-right: 1rem;">
+          <span style="font-size: 1.5rem;">👯</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Looking to Collaborate On</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> AI/ML Projects
+        </li>
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Open Source Contributions
+        </li>
+        <li style="padding: 0.5rem 0; display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Research Papers
+        </li>
+      </ul>
+    </div>
+
+    <!-- Ask Me About -->
+    <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2); border: 1px solid rgba(255, 255, 255, 0.1); transition: transform 0.3s ease;">
+      <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+        <div style="background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-right: 1rem;">
+          <span style="font-size: 1.5rem;">💬</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Ask Me About</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Machine Learning & Deep Learning
+        </li>
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Data Structures & Algorithms
+        </li>
+        <li style="padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Cybersecurity Fundamentals
+        </li>
+        <li style="padding: 0.5rem 0; display: flex; align-items: center;">
+          <span style="margin-right: 0.5rem;">•</span> Full-stack Development
+        </li>
+      </ul>
+    </div>
+
+    <!-- How to Reach Me -->
+    <div style="background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border-radius: 15px; padding: 1.5rem; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2); border: 1px solid rgba(255, 255, 255, 0.1); transition: transform 0.3s ease; grid-column: 1 / -1;">
+      <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+        <div style="background: linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-right: 1rem;">
+          <span style="font-size: 1.5rem;">📫</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">How to Reach Me</h3>
+      </div>
+      <div style="display: flex; align-items: center; justify-content: center;">
+        <a href="mailto:techarena955@gmail.com" style="background: linear-gradient(135deg, #12c2e9 0%, #c471ed 50%, #f64f59 100%); padding: 0.8rem 1.5rem; border-radius: 50px; color: white; text-decoration: none; font-weight: bold; display: flex; align-items: center; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 0.5rem;">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+            <polyline points="22,6 12,13 2,6"></polyline>
+          </svg>
+          techarena955@gmail.com
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+  <style>
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    
+    div[style*="background: rgba(255,255,255,0.1)"]:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.3);
+    }
+    
+    a[href^="mailto:"]:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+    }
+  </style>
+
+</div>
 
 <h2 align="center">🚀 Tech Stack</h2>
 
