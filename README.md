@@ -20,263 +20,289 @@
 </div>
 
 ---
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px;">
 
-## 🎯 My Current Focus
+  <!-- Animated Header -->
+  <h2 style="
+    background: linear-gradient(90deg, #ff8a00, #e52e71);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 2.2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    animation: gradient 3s ease infinite;
+    background-size: 200% 200%;
+  ">
+    🎯 My Current Focus
+  </h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-<!-- Currently Working On -->
-<div style="
-  background: rgba(255,255,255,0.08);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 20px;
-  box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  position: relative;
-  overflow: hidden;
-">
-  <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
+    <!-- Currently Working On -->
     <div style="
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      width: 50px;
-      height: 50px;
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-right: 15px;
-      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
-    ">
-      <span style="font-size: 1.5rem;">🔭</span>
-    </div>
-    <h3 style="margin: 0; color: white; font-size: 1.3rem;">Currently Working On</h3>
-  </div>
-  <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #667eea;">•</span> 
-      Research Project in Advanced AI Applications
-    </li>
-  </ul>
-</div>
-
-<!-- Currently Learning -->
-<div style="
-  background: rgba(255,255,255,0.08);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 20px;
-  box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  position: relative;
-  overflow: hidden;
-">
-  <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
-    <div style="
-      background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
-      width: 50px;
-      height: 50px;
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-right: 15px;
-      box-shadow: 0 4px 15px rgba(17, 153, 142, 0.4);
-    ">
-      <span style="font-size: 1.5rem;">🌱</span>
-    </div>
-    <h3 style="margin: 0; color: white; font-size: 1.3rem;">Currently Learning</h3>
-  </div>
-  <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #11998e;">•</span> 
-      Advanced AI in Finance
-    </li>
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #11998e;">•</span> 
-      Large Language Models (LLMs)
-    </li>
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #11998e;">•</span> 
-      MLOps
-    </li>
-  </ul>
-</div>
-
-<!-- Looking to Collaborate On -->
-<div style="
-  background: rgba(255,255,255,0.08);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 20px;
-  box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  position: relative;
-  overflow: hidden;
-">
-  <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
-    <div style="
-      background: linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%);
-      width: 50px;
-      height: 50px;
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-right: 15px;
-      box-shadow: 0 4px 15px rgba(252, 74, 26, 0.4);
-    ">
-      <span style="font-size: 1.5rem;">👯</span>
-    </div>
-    <h3 style="margin: 0; color: white; font-size: 1.3rem;">Looking to Collaborate On</h3>
-  </div>
-  <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #fc4a1a;">•</span> 
-      AI/ML Projects
-    </li>
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #fc4a1a;">•</span> 
-      Open Source Contributions
-    </li>
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #fc4a1a;">•</span> 
-      Research Papers
-    </li>
-  </ul>
-</div>
-
-<!-- Ask Me About -->
-<div style="
-  background: rgba(255,255,255,0.08);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 20px;
-  box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  position: relative;
-  overflow: hidden;
-">
-  <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
-    <div style="
-      background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%);
-      width: 50px;
-      height: 50px;
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-right: 15px;
-      box-shadow: 0 4px 15px rgba(71, 118, 230, 0.4);
-    ">
-      <span style="font-size: 1.5rem;">💬</span>
-    </div>
-    <h3 style="margin: 0; color: white; font-size: 1.3rem;">Ask Me About</h3>
-  </div>
-  <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #4776E6;">•</span> 
-      Machine Learning & Deep Learning
-    </li>
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #4776E6;">•</span> 
-      Data Structures & Algorithms
-    </li>
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #4776E6;">•</span> 
-      Cybersecurity Fundamentals
-    </li>
-    <li style="padding: 12px 0; display: flex; align-items: center;">
-      <span style="margin-right: 10px; color: #4776E6;">•</span> 
-      Full-stack Development
-    </li>
-  </ul>
-</div>
-
-<!-- How to Reach Me -->
-<div style="
-  background: rgba(255,255,255,0.08);
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
-  padding: 25px;
-  box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  grid-column: 1 / -1;
-  position: relative;
-  overflow: hidden;
-">
-  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #FF416C, #FF4B2B);"></div>
-  <div style="display: flex; align-items: center; margin-bottom: 20px; position: relative;">
-    <div style="
-      background: linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%);
-      width: 50px;
-      height: 50px;
-      border-radius: 12px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-right: 15px;
-      box-shadow: 0 4px 15px rgba(255, 65, 108, 0.4);
-    ">
-      <span style="font-size: 1.5rem;">📫</span>
-    </div>
-    <h3 style="margin: 0; color: white; font-size: 1.4rem;">How to Reach Me</h3>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <a href="mailto:techarena955@gmail.com" style="
-      background: linear-gradient(135deg, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
-      padding: 12px 25px;
-      border-radius: 50px;
-      color: white;
-      text-decoration: none;
-      font-weight: bold;
-      display: flex;
-      align-items: center;
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(12px);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
+      border: 1px solid rgba(255, 255, 255, 0.15);
       transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
       position: relative;
       overflow: hidden;
     ">
-      <span style="position: absolute; background: rgba(255,255,255,0.2); width: 20px; height: 100%; left: 0; top: 0; transform: skewX(-15deg) translateX(-30px); transition: all 0.3s ease;"></span>
-      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;">
-        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-        <polyline points="22,6 12,13 2,6"></polyline>
-      </svg>
-      techarena955@gmail.com
-    </a>
-    
-    <a href="https://linkedin.com/in/PRIYANSHU2026" target="_blank" style="
-      background: linear-gradient(135deg, #0077B5 0%, #00A0DC 100%);
-      padding: 12px 25px;
-      border-radius: 50px;
-      color: white;
-      text-decoration: none;
-      font-weight: bold;
-      display: flex;
-      align-items: center;
+      <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
+        <div style="
+          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+          width: 50px;
+          height: 50px;
+          border-radius: 12px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 15px;
+          box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        ">
+          <span style="font-size: 1.5rem;">🔭</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Currently Working On</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
+        <li style="
+          padding: 12px 0;
+          display: flex;
+          align-items: center;
+          transition: all 0.3s ease;
+        ">
+          <span style="margin-right: 10px; color: #667eea; font-weight: bold;">•</span> 
+          Research Project in Advanced AI Applications
+        </li>
+      </ul>
+    </div>
+
+    <!-- Currently Learning -->
+    <div style="
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(12px);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
+      border: 1px solid rgba(255, 255, 255, 0.15);
       transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
       position: relative;
       overflow: hidden;
     ">
-      <span style="position: absolute; background: rgba(255,255,255,0.2); width: 20px; height: 100%; left: 0; top: 0; transform: skewX(-15deg) translateX(-30px); transition: all 0.3s ease;"></span>
-      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;">
-        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
-        <rect x="2" y="9" width="4" height="12"></rect>
-        <circle cx="4" cy="4" r="2"></circle>
-      </svg>
-      LinkedIn Profile
-    </a>
+      <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
+        <div style="
+          background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+          width: 50px;
+          height: 50px;
+          border-radius: 12px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 15px;
+          box-shadow: 0 4px 15px rgba(17, 153, 142, 0.4);
+        ">
+          <span style="font-size: 1.5rem;">🌱</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Currently Learning</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #11998e; font-weight: bold;">•</span> 
+          Advanced AI in Finance
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #11998e; font-weight: bold;">•</span> 
+          Large Language Models (LLMs)
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #11998e; font-weight: bold;">•</span> 
+          MLOps
+        </li>
+      </ul>
+    </div>
+
+    <!-- Looking to Collaborate On -->
+    <div style="
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(12px);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      position: relative;
+      overflow: hidden;
+    ">
+      <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
+        <div style="
+          background: linear-gradient(135deg, #fc4a1a 0%, #f7b733 100%);
+          width: 50px;
+          height: 50px;
+          border-radius: 12px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 15px;
+          box-shadow: 0 4px 15px rgba(252, 74, 26, 0.4);
+        ">
+          <span style="font-size: 1.5rem;">👯</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Looking to Collaborate On</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #fc4a1a; font-weight: bold;">•</span> 
+          AI/ML Projects
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #fc4a1a; font-weight: bold;">•</span> 
+          Open Source Contributions
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #fc4a1a; font-weight: bold;">•</span> 
+          Research Papers
+        </li>
+      </ul>
+    </div>
+
+    <!-- Ask Me About -->
+    <div style="
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(12px);
+      border-radius: 16px;
+      padding: 20px;
+      box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      position: relative;
+      overflow: hidden;
+    ">
+      <div style="display: flex; align-items: center; margin-bottom: 15px; position: relative; z-index: 1;">
+        <div style="
+          background: linear-gradient(135deg, #4776E6 0%, #8E54E9 100%);
+          width: 50px;
+          height: 50px;
+          border-radius: 12px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 15px;
+          box-shadow: 0 4px 15px rgba(71, 118, 230, 0.4);
+        ">
+          <span style="font-size: 1.5rem;">💬</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.3rem;">Ask Me About</h3>
+      </div>
+      <ul style="list-style-type: none; padding: 0; margin: 0; position: relative; z-index: 1;">
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #4776E6; font-weight: bold;">•</span> 
+          Machine Learning & Deep Learning
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #4776E6; font-weight: bold;">•</span> 
+          Data Structures & Algorithms
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #4776E6; font-weight: bold;">•</span> 
+          Cybersecurity Fundamentals
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; transition: all 0.3s ease;">
+          <span style="margin-right: 10px; color: #4776E6; font-weight: bold;">•</span> 
+          Full-stack Development
+        </li>
+      </ul>
+    </div>
+
+    <!-- How to Reach Me -->
+    <div style="
+      background: rgba(255,255,255,0.08);
+      backdrop-filter: blur(12px);
+      border-radius: 16px;
+      padding: 25px;
+      box-shadow: 0 10px 35px 0 rgba(31, 38, 135, 0.25);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      grid-column: 1 / -1;
+      position: relative;
+      overflow: hidden;
+    ">
+      <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #FF416C, #FF4B2B);"></div>
+      <div style="display: flex; align-items: center; margin-bottom: 20px; position: relative;">
+        <div style="
+          background: linear-gradient(135deg, #FF416C 0%, #FF4B2B 100%);
+          width: 50px;
+          height: 50px;
+          border-radius: 12px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-right: 15px;
+          box-shadow: 0 4px 15px rgba(255, 65, 108, 0.4);
+        ">
+          <span style="font-size: 1.5rem;">📫</span>
+        </div>
+        <h3 style="margin: 0; color: white; font-size: 1.4rem;">How to Reach Me</h3>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+        <a href="mailto:techarena955@gmail.com" style="
+          background: linear-gradient(135deg, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
+          padding: 12px 25px;
+          border-radius: 50px;
+          color: white;
+          text-decoration: none;
+          font-weight: bold;
+          display: flex;
+          align-items: center;
+          transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+          box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+          position: relative;
+          overflow: hidden;
+        ">
+          <span style="position: absolute; background: rgba(255,255,255,0.2); width: 20px; height: 100%; left: 0; top: 0; transform: skewX(-15deg) translateX(-30px); transition: all 0.3s ease;"></span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+            <polyline points="22,6 12,13 2,6"></polyline>
+          </svg>
+          techarena955@gmail.com
+        </a>
+        
+        <a href="https://linkedin.com/in/PRIYANSHU2026" target="_blank" style="
+          background: linear-gradient(135deg, #0077B5 0%, #00A0DC 100%);
+          padding: 12px 25px;
+          border-radius: 50px;
+          color: white;
+          text-decoration: none;
+          font-weight: bold;
+          display: flex;
+          align-items: center;
+          transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+          box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+          position: relative;
+          overflow: hidden;
+        ">
+          <span style="position: absolute; background: rgba(255,255,255,0.2); width: 20px; height: 100%; left: 0; top: 0; transform: skewX(-15deg) translateX(-30px); transition: all 0.3s ease;"></span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;">
+            <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+            <rect x="2" y="9" width="4" height="12"></rect>
+            <circle cx="4" cy="4" r="2"></circle>
+          </svg>
+          LinkedIn Profile
+        </a>
+      </div>
+    </div>
   </div>
-</div>
 </div>
 
 <style>
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
   div[style*="background: rgba(255,255,255,0.08)"]:hover {
     transform: translateY(-8px) scale(1.02);
     box-shadow: 0 15px 45px 0 rgba(31, 38, 135, 0.35);
@@ -301,7 +327,6 @@
     transition: all 0.3s ease;
   }
 </style>
-
 ---
 
 ## 🛠️ Tech Stack
