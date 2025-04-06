@@ -110,9 +110,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&theme=radical" alt="PRIYANSHU2026" />
 </div>
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=PRIYANSHU2026&theme=react-dark" alt="Activity Graph" />
-</div>
+<!-- 
+<img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PRIYANSHU2026&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+-->
 
 ---
 
