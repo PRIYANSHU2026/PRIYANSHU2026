@@ -21,27 +21,49 @@
 
 ---
 
+<p align="center">
+  <b>AI Enthusiast | Researcher | Full-Stack Developer | Open Source Contributor</b>
+</p>
+
+---
+
 ### 🔭 Currently Working On
-- Research Project in Advanced AI Applications
+🎓 **Research Project in Advanced AI Applications**  
+Exploring the frontiers of Artificial Intelligence with real-world impact.  
+
+---
 
 ### 🌱 Currently Learning
-- Advanced AI in Finance
-- Large Language Models (LLMs)
-- MLOps
+📈 **Advanced AI in Finance** – Applying ML to financial data for smarter insights  
+🧠 **Large Language Models (LLMs)** – Diving into Transformers, GPTs, and beyond  
+🔧 **MLOps** – From model training to deployment and CI/CD workflows  
+
+---
 
 ### 👯 Looking to Collaborate On
-- AI/ML Projects
-- Open Source Contributions
-- Research Papers
+🤖 **AI/ML Projects** – Let's solve impactful problems together  
+🌐 **Open Source Contributions** – Passionate about contributing to global tech  
+📄 **Research Papers** – Academic + practical innovation? Count me in!
+
+---
 
 ### 💬 Ask Me About
-- Machine Learning & Deep Learning
-- Data Structures & Algorithms
-- Cybersecurity Fundamentals
-- Full-stack Development
+🧠 Machine Learning & Deep Learning  
+🔐 Cybersecurity Fundamentals  
+📊 Data Structures & Algorithms  
+🌍 Full-stack Web Development  
+
+---
 
 ### 📫 How to Reach Me
-📧 Email: [techarena955@gmail.com](mailto:techarena955@gmail.com)
+📧 Email: [techarena955@gmail.com](mailto:techarena955@gmail.com)  
+🌍 Let’s connect, collaborate, and build something incredible!
+
+---
+
+<p align="center">
+  <i>“Building the future, one model at a time.”</i> 🚀
+</p>
 
 ---
 
