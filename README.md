@@ -78,13 +78,21 @@
   Publications & Certifications
 </h2>
 
-| 📚 Title | 📖 Venue | 🔗 DOI |
+<div align="center">
+
+| 📚 Research Publication | 📖 Venue / Status | 🔗 Link |
 | :--- | :--- | :---: |
-| **FAANG Stock Forecasting via Feature Engineering & LSTM** | *IEEE AIDE 2025* | [10.1109/AIDE64228.2025.10987293](https://doi.org/10.1109/AIDE64228.2025.10987293) |
-| **Fare Prediction in Ride-Hailing via Neural Networks** | *IEEE AIDE 2025* | [10.1109/AIDE64228.2025.10987321](https://doi.org/10.1109/AIDE64228.2025.10987321) |
-| **Prediction of Ka-Band TWTA via FNN** | *ICKECS 2025* | [10.1109/ICKECS65700.2025.11034912](https://doi.org/10.1109/ICKECS65700.2025.11034912) |
-| **Precision Agriculture: Soil Fertility System** | *E3S Web of Conference* | [10.1051/e3sconf/202669203002](https://doi.org/10.1051/e3sconf/202669203002) |
-| **Predicting Enzyme Property Alterations** | *IEEE MPCON 2025* | [10.1109/MPCON66082.2025.11251497](https://doi.org/10.1109/MPCON66082.2025.11251497) |
+| 🔹 **[Optimizing FAANG Stock Forecasting: The Power of Feature Engineering and LSTM](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:2osOgNQ5qMEC)** | *IEEE AIDE 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/AIDE64228.2025.10987293) |
+| 🔹 **[Enhancing Fare Prediction Accuracy in Ride Hailing Through Neural Networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:9yKSN-GCB0IC)** | *IEEE AIDE 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/AIDE64228.2025.10987321) |
+| 🔹 **[Prediction of Traveling Ka Band Wave Tube Amplifier Characteristics Using FNN](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:UeHWp8X0CEIC)** | *ICKECS 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/ICKECS65700.2025.11034912) |
+| 🔹 **[Towards Precision Agriculture: A Real-Time Soil Fertility Monitoring System](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:zYLM7Y9cAGgC)** | *E3S Web of Conf.* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1051/e3sconf/202669203002) |
+| 🔹 **[Predicting Enzyme Property Alterations: A Machine Learning Approach](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:IjCSPb-OGe4C)** | *IEEE MPCON 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/MPCON66082.2025.11251497) |
+| 🔹 **[NUA-FedBeam: Noisy-Uplink-Aware Federated Downlink Beamforming for Dist. MIMO](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:YsMSGLbcyi4C)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:YsMSGLbcyi4C) |
+| 🔹 **[Digital Twin-assisted belief-state RL for latency-robust ISAC in 6G networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Y0pCki6q_DkC)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Y0pCki6q_DkC) |
+| 🔹 **[Building a Multilingual, Voice-First Banking Assistant for the Mifos Ecosystem](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:W7OEmFMy1HYC)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:W7OEmFMy1HYC) |
+| 🔹 **[Machine Learning-Augmented Segment Routing over IPv6 for QoS-Aware 5G Networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Tyk-4Ss8FVUC)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Tyk-4Ss8FVUC) |
+
+</div>
 
 ---
 
