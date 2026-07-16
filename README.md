@@ -148,5 +148,4 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
   <br>
-  <i>(Note: Push this README to GitHub to trigger the Snake Action and render the animation!)</i>
 </div>
