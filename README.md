@@ -67,15 +67,9 @@
   Featured Projects
 </h2>
 
-| 🚀 Project | 📝 Description | 📅 Timeline |
-| :--- | :--- | :---: |
-| **HarmonyHub: Adaptive Music Learning** | Built a Generative AI platform using Mistral LLM API with custom Prompt Engineering. | *May-Aug 2026* |
-| **Mifos X Bank Statement Analyzer** | Engineered Financial Analytics Platform integrating banking data with ML-based ETL pipelines. | *May-Aug 2026* |
-| **Arogya AI - Conversational AI** | Decentralized AI system for doctor-patient interactions (IIT Bombay Eureka ID: EU2570644). | *Jan 2025-Present* |
-| **Bone Loss Detection on X-Rays** | CNN-based Computer Vision pipeline achieving 89% accuracy (reduced diagnostic time by 95%). | *Dec 2023-Aug 2024* |
-| **Combinational Health Model** | Ensemble ML system for multi-disease chronic risk prediction with 87% average accuracy. | *May-Sep 2024* |
-| **GIS Traffic Simulation Platform** | Geospatial simulation framework using Mesa-Geo, OSMnx for large-scale intelligent modeling. | *Aug 2024* |
-| **AI in Friction Stir Welding** | ANN regression model achieving 88% accuracy, reducing material waste by 22%. | *Feb 2024* |
+<div align="center">
+  <img src="featured_projects.svg" alt="Featured Projects Grid" width="100%" />
+</div>
 
 ---
 

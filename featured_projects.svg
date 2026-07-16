@@ -1,0 +1,126 @@
+<svg width="800" height="570" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: transparent; }
+    .card-bg { fill: #161b22; rx: 10; }
+    
+    .normal-trace { fill: transparent; stroke: #30363d; stroke-width: 2; stroke-dasharray: 1020; stroke-dashoffset: 1020; rx: 10; animation: drawBorder 1.5s ease-out forwards; pointer-events: stroke; }
+    .gsoc-trace { fill: transparent; stroke: #f1e05a; stroke-width: 3; stroke-dasharray: 1020; stroke-dashoffset: 1020; rx: 10; animation: drawBorder 2s ease-out forwards, pulseGold 2.5s infinite alternate; }
+    .msoc-trace { fill: transparent; stroke: #58a6ff; stroke-width: 3; stroke-dasharray: 1020; stroke-dashoffset: 1020; rx: 10; animation: drawBorder 2s ease-out forwards, pulseBlue 2.5s infinite alternate; }
+    
+    .card-group { cursor: default; }
+    .card-group:hover .normal-trace { stroke: #11F791; stroke-width: 3; filter: drop-shadow(0 0 6px rgba(17, 247, 145, 0.6)); transition: all 0.3s; }
+    .card-group:hover .card-bg { fill: #21262d; transition: all 0.3s; }
+    
+    .title { fill: #ffffff; font-size: 16.5px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; pointer-events: none; }
+    .desc { fill: #c9d1d9; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; pointer-events: none; }
+    .time { fill: #8b949e; font-size: 12.5px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; pointer-events: none; }
+    .tag { font-size: 13px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; text-anchor: end; pointer-events: none; }
+    .gold { fill: #f1e05a; }
+    .blue { fill: #58a6ff; }
+    
+    .content { opacity: 0; transform-origin: center; animation: fadeUp 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; }
+    .c1 { animation-delay: 0.2s; }
+    .c2 { animation-delay: 0.4s; }
+    .c3 { animation-delay: 0.6s; }
+    .c4 { animation-delay: 0.8s; }
+    .c5 { animation-delay: 1.0s; }
+    .c6 { animation-delay: 1.2s; }
+    .c7 { animation-delay: 1.4s; }
+    
+    @keyframes drawBorder { to { stroke-dashoffset: 0; } }
+    @keyframes pulseGold { 100% { filter: drop-shadow(0 0 8px rgba(241, 224, 90, 0.8)); } }
+    @keyframes pulseBlue { 100% { filter: drop-shadow(0 0 8px rgba(88, 166, 255, 0.8)); } }
+    @keyframes fadeUp { 
+      0% { opacity: 0; transform: translateY(15px); } 
+      100% { opacity: 1; transform: translateY(0); } 
+    }
+  </style>
+
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- C1: GSoC -->
+  <g class="card-group" transform="translate(10, 10)">
+    <rect width="380" height="125" class="card-bg" />
+    <rect width="380" height="125" class="gsoc-trace" />
+    <g class="content c1">
+      <text x="20" y="32" class="title">HarmonyHub: Adaptive Music</text>
+      <text x="360" y="32" class="tag gold">⭐ GSoC 2025</text>
+      <text x="20" y="62" class="desc">Built a Generative AI platform using Mistral</text>
+      <text x="20" y="82" class="desc">LLM API with custom Prompt Engineering.</text>
+      <text x="20" y="112" class="time">📅 May-Aug 2026</text>
+    </g>
+  </g>
+
+  <!-- C2: MSoC -->
+  <g class="card-group" transform="translate(410, 10)">
+    <rect width="380" height="125" class="card-bg" />
+    <rect width="380" height="125" class="msoc-trace" />
+    <g class="content c2">
+      <text x="20" y="32" class="title">Mifos X Statement Analyzer</text>
+      <text x="360" y="32" class="tag blue">🌟 MSoC 2025</text>
+      <text x="20" y="62" class="desc">Engineered Financial Analytics Platform with</text>
+      <text x="20" y="82" class="desc">banking data &amp; ML-based ETL pipelines.</text>
+      <text x="20" y="112" class="time">📅 May-Aug 2026</text>
+    </g>
+  </g>
+
+  <!-- C3 -->
+  <g class="card-group" transform="translate(10, 150)">
+    <rect width="380" height="125" class="card-bg" />
+    <rect width="380" height="125" class="normal-trace" />
+    <g class="content c3">
+      <text x="20" y="32" class="title">Arogya AI - Conversational AI</text>
+      <text x="20" y="62" class="desc">Decentralized AI system for doctor-patient</text>
+      <text x="20" y="82" class="desc">interactions (IIT Bombay Eureka ID).</text>
+      <text x="20" y="112" class="time">📅 Jan 2025-Present</text>
+    </g>
+  </g>
+
+  <!-- C4 -->
+  <g class="card-group" transform="translate(410, 150)">
+    <rect width="380" height="125" class="card-bg" />
+    <rect width="380" height="125" class="normal-trace" />
+    <g class="content c4">
+      <text x="20" y="32" class="title">Bone Loss Detection on X-Rays</text>
+      <text x="20" y="62" class="desc">CNN-based Computer Vision pipeline achieving</text>
+      <text x="20" y="82" class="desc">89% accuracy (cut diagnostic time by 95%).</text>
+      <text x="20" y="112" class="time">📅 Dec 2023-Aug 2024</text>
+    </g>
+  </g>
+
+  <!-- C5 -->
+  <g class="card-group" transform="translate(10, 290)">
+    <rect width="380" height="125" class="card-bg" />
+    <rect width="380" height="125" class="normal-trace" />
+    <g class="content c5">
+      <text x="20" y="32" class="title">Combinational Health Model</text>
+      <text x="20" y="62" class="desc">Ensemble ML system for multi-disease</text>
+      <text x="20" y="82" class="desc">chronic risk prediction with 87% average Acc.</text>
+      <text x="20" y="112" class="time">📅 May-Sep 2024</text>
+    </g>
+  </g>
+
+  <!-- C6 -->
+  <g class="card-group" transform="translate(410, 290)">
+    <rect width="380" height="125" class="card-bg" />
+    <rect width="380" height="125" class="normal-trace" />
+    <g class="content c6">
+      <text x="20" y="32" class="title">GIS Traffic Simulation Platform</text>
+      <text x="20" y="62" class="desc">Geospatial simulation framework using</text>
+      <text x="20" y="82" class="desc">Mesa-Geo, OSMnx for large-scale modeling.</text>
+      <text x="20" y="112" class="time">📅 Aug 2024</text>
+    </g>
+  </g>
+
+  <!-- C7 -->
+  <g class="card-group" transform="translate(210, 430)">
+    <rect width="380" height="125" class="card-bg" />
+    <rect width="380" height="125" class="normal-trace" />
+    <g class="content c7">
+      <text x="20" y="32" class="title">AI in Friction Stir Welding</text>
+      <text x="20" y="62" class="desc">ANN regression model achieving 88% accuracy,</text>
+      <text x="20" y="82" class="desc">reducing material waste by 22%.</text>
+      <text x="20" y="112" class="time">📅 Feb 2024</text>
+    </g>
+  </g>
+</svg>
