@@ -1,0 +1,38 @@
+<svg width="400" height="240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0D1117; }
+    .text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #ffffff; font-size: 15px; font-weight: 600; }
+    .bar-bg { fill: #21262d; rx: 6; }
+    .bar-fg { fill: #11F791; rx: 6; }
+    .value { fill: #11F791; font-size: 13px; font-weight: bold; font-family: monospace; }
+    @keyframes load { from { width: 0; } }
+    .anim { animation: load 1.2s ease-out forwards; }
+  </style>
+  <rect width="100%" height="100%" class="bg" rx="6" />
+
+  <g transform="translate(20, 30)">
+    <!-- GENIE AI -->
+    <text x="0" y="15" class="text">GENIE AI (ML Engineer)</text>
+    <text x="360" y="15" class="value" text-anchor="end">Present</text>
+    <rect x="0" y="25" width="360" height="14" class="bar-bg" />
+    <rect x="0" y="25" width="340" height="14" class="bar-fg anim" style="animation-delay: 0.1s" />
+
+    <!-- GSoC -->
+    <text x="0" y="70" class="text">GSoC 2025 (Contributor)</text>
+    <text x="360" y="70" class="value" text-anchor="end">Top 1.2%</text>
+    <rect x="0" y="80" width="360" height="14" class="bar-bg" />
+    <rect x="0" y="80" width="280" height="14" class="bar-fg anim" style="animation-delay: 0.3s" />
+
+    <!-- Mifos -->
+    <text x="0" y="125" class="text">Mifos Initiative (AI Intern)</text>
+    <text x="360" y="125" class="value" text-anchor="end">Impact</text>
+    <rect x="0" y="135" width="360" height="14" class="bar-bg" />
+    <rect x="0" y="135" width="240" height="14" class="bar-fg anim" style="animation-delay: 0.5s" />
+
+    <!-- Mentoring -->
+    <text x="0" y="180" class="text">Open Source Mentoring</text>
+    <text x="360" y="180" class="value" text-anchor="end">Global</text>
+    <rect x="0" y="190" width="360" height="14" class="bar-bg" />
+    <rect x="0" y="190" width="300" height="14" class="bar-fg anim" style="animation-delay: 0.7s" />
+  </g>
+</svg>

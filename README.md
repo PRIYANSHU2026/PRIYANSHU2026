@@ -1,160 +1,151 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Priyanshu%20Tiwari&fontSize=80&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" />
+</div>
+
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Priyanshu+Tiwari;OPEN+SOURCE+CONTRIBUTOR+🚀;Machine+Learning+Engineer+🤖;AI+Enthusiast+🧠;From+India+🇮🇳" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&width=600&height=40&lines=Hi+👋,+I'm+Priyanshu+Tiwari;Machine+Learning+Engineer+🤖;AI+Researcher+🧠;Open+Source+Contributor+🚀;From+India+🇮🇳" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRIYANSHU2026&label=Profile+Views&color=blue&style=for-the-badge" alt="PRIYANSHU2026" /> 
   <a href="https://github.com/PRIYANSHU2026?tab=followers">
     <img src="https://img.shields.io/github/followers/PRIYANSHU2026?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/PRIYANSHU2026" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:techarena955@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PRIYANSHU2026&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="PRIYANSHU2026" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="35" height="35" />
+  <b>Large Language Models · ML Optimization · Computer Vision · AI for Healthcare · Adaptive Learning Systems</b>
 </div>
+
+<br>
+
+> 💡 **About Me:** I am a Machine Learning Engineer and AI Researcher dedicated to building scalable AI inference pipelines, designing neural architectures, and contributing to impactful open-source tech.
 
 ---
 
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" height="35" /> 
+  Tech Stack & Skills
+</h2>
+
 <p align="center">
-  <b>AI Enthusiast | Researcher | Full-Stack Developer | Open Source Contributor</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,r,scala,java,matlab,bash,html,css,nodejs,react,nextjs,tailwind,pytorch,tensorflow,docker,kubernetes,linux,ubuntu,aws,azure,gcp,cloudflare,vercel,git,github,githubactions,mysql,postgres&perline=16" alt="Tech Stack Icons" />
+  </a>
+</p>
+<p align="center">
+  <i>Transformers | LLMs | Prompt Engineering | OpenCV | MediaPipe | NLTK | ETL Pipelines</i>
 </p>
 
 ---
 
-### 🔭 Currently Working On
-🎓 **Research Project in Advanced AI Applications**  
-Exploring the frontiers of Artificial Intelligence with real-world impact.  
-
----
-
-### 🌱 Currently Learning
-📈 **Advanced AI in Finance** – Applying ML to financial data for smarter insights  
-🧠 **Large Language Models (LLMs)** – Diving into Transformers, GPTs, and beyond  
-🔧 **MLOps** – From model training to deployment and CI/CD workflows  
-
----
-
-### 👯 Looking to Collaborate On
-🤖 **AI/ML Projects** – Let's solve impactful problems together  
-🌐 **Open Source Contributions** – Passionate about contributing to global tech  
-📄 **Research Papers** – Academic + practical innovation? Count me in!
-
----
-
-### 💬 Ask Me About
-🧠 Machine Learning & Deep Learning  
-🔐 Cybersecurity Fundamentals  
-📊 Data Structures & Algorithms  
-🌍 Full-stack Web Development  
-
----
-
-### 📫 How to Reach Me
-📧 Email: [techarena955@gmail.com](mailto:techarena955@gmail.com)  
-🌍 Let’s connect, collaborate, and build something incredible!
-
----
-
-<p align="center">
-  <i>“Building the future, one model at a time.”</i> 🚀
-</p>
-
----
-
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" height="35" /> 
+  Experience
+</h2>
 
 <div align="center">
-  <h3>🧠 AI/ML</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-  </div>
-
-  <h3>💻 Development</h3>
-  <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
-  </div>
-
-  <h3>🗄️ Databases</h3>
-  <div>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </div>
-
-  <h3>🛠️ DevOps & Cloud</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  </div>
-
-  <h3>📊 Data Visualization</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/Seaborn-5C8DBC?style=for-the-badge" alt="Seaborn">
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
-  </div>
+  <img src="experience_timeline.svg" alt="Experience Timeline" width="100%" />
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="35" height="35" /> 
+  Featured Projects
+</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIYANSHU2026&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&theme=radical" alt="PRIYANSHU2026" />
-</div>
-
-
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/PRIYANSHU2026" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/PRIYANSHU2026" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://kaggle.com/PRIYANSHU2026" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="https://scholar.google.com/citations?user=PRIYANSHU2026" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>
+  <img src="featured_projects.svg" alt="Featured Projects Grid" width="100%" />
 </div>
 
 ---
 
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="35" height="35" /> 
+  Publications & Certifications
+</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PRIYANSHU2026&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&column=7" alt="PRIYANSHU2026" />
+
+| 📚 Research Publication | 📖 Venue / Status | 🔗 Link |
+| :--- | :--- | :---: |
+| 🔹 **[Optimizing FAANG Stock Forecasting: The Power of Feature Engineering and LSTM](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:2osOgNQ5qMEC)** | *IEEE AIDE 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/AIDE64228.2025.10987293) |
+| 🔹 **[Enhancing Fare Prediction Accuracy in Ride Hailing Through Neural Networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:9yKSN-GCB0IC)** | *IEEE AIDE 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/AIDE64228.2025.10987321) |
+| 🔹 **[Prediction of Traveling Ka Band Wave Tube Amplifier Characteristics Using FNN](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:UeHWp8X0CEIC)** | *ICKECS 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/ICKECS65700.2025.11034912) |
+| 🔹 **[Towards Precision Agriculture: A Real-Time Soil Fertility Monitoring System](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:zYLM7Y9cAGgC)** | *E3S Web of Conf.* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1051/e3sconf/202669203002) |
+| 🔹 **[Predicting Enzyme Property Alterations: A Machine Learning Approach](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:IjCSPb-OGe4C)** | *IEEE MPCON 2025* | [![DOI](https://img.shields.io/badge/DOI-Link-blue?style=flat-square)](https://doi.org/10.1109/MPCON66082.2025.11251497) |
+| 🔹 **[NUA-FedBeam: Noisy-Uplink-Aware Federated Downlink Beamforming for Dist. MIMO](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:YsMSGLbcyi4C)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:YsMSGLbcyi4C) |
+| 🔹 **[Digital Twin-assisted belief-state RL for latency-robust ISAC in 6G networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Y0pCki6q_DkC)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Y0pCki6q_DkC) |
+| 🔹 **[Building a Multilingual, Voice-First Banking Assistant for the Mifos Ecosystem](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:W7OEmFMy1HYC)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:W7OEmFMy1HYC) |
+| 🔹 **[Machine Learning-Augmented Segment Routing over IPv6 for QoS-Aware 5G Networks](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Tyk-4Ss8FVUC)** | *Research* | [![Scholar](https://img.shields.io/badge/Scholar-Link-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=yv0stncAAAAJ&citation_for_view=yv0stncAAAAJ:Tyk-4Ss8FVUC) |
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" height="35" /> 
+  Honors & Awards
+</h2>
+
+> 🌟 **GSoC 2025 Contributor** – Selected among top 1.2% applicants worldwide.  
+> 🎙️ **LinkedIn 2× Top Voice** in GIS / Machine Learning (2024).  
+> 🥇 **Global Rank 1 in Python Programming** – HackerRank (2023).  
+> 🏅 **Excellence in Machine Learning Award** – Aqmenz Automation Pvt Ltd (2024).  
+> ⭐ **NCC Senior Under Officer** – Rank 1, Karnataka & Goa Directorate (2500+ cadets).  
+> 🎖️ **NCC Gold Medal** – Ek Bharat Shreshtha Bharat (EBSB); Certificates A, B, C.
+
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> 
+  GitHub Activity & Impact Dashboard
+</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&theme=radical&hide_border=true&background=0D1117&ring=11F791&fire=11F791&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=11F791&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🏆 Open Source Impact</h3>
+      <img src="impact_dashboard.svg" alt="Open Source Impact Dashboard" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>💻 Top Languages</h3>
+      <img src="top_languages.svg" alt="Top Languages Dashboard" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 Key Competencies</h3>
+      <img src="core_skills_chart.svg" alt="Core Skills Analytics Dashboard" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <h3>🐍 GitHub Contributions Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  <br>
 </div>

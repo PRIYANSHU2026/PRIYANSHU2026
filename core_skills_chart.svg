@@ -1,0 +1,113 @@
+<svg width="400" height="240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0D1117; }
+    .text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #ffffff; font-size: 15px; font-weight: 600; }
+    .subtext { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; font-size: 11px; }
+    .grid { stroke: #21262d; stroke-width: 1; stroke-dasharray: 4 4; }
+    
+    .line-chart {
+      fill: none;
+      stroke: #11F791;
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: drawLine 2s ease-out forwards, glow 2s infinite alternate;
+      filter: drop-shadow(0px 0px 4px rgba(17, 247, 145, 0.6));
+    }
+    
+    .area-chart {
+      fill: url(#grad);
+      opacity: 0;
+      animation: fadeIn 2s 1.5s ease-in-out forwards;
+    }
+    
+    .vol { fill: #11F791; opacity: 0.3; rx: 2; }
+    
+    .v1 { animation: a1 1.2s infinite alternate ease-in-out; }
+    .v2 { animation: a2 1.8s infinite alternate ease-in-out; }
+    .v3 { animation: a3 1.4s infinite alternate ease-in-out; }
+    .v4 { animation: a4 2.0s infinite alternate ease-in-out; }
+    .v5 { animation: a5 1.6s infinite alternate ease-in-out; }
+    .v6 { animation: a6 1.9s infinite alternate ease-in-out; }
+    .v7 { animation: a7 1.3s infinite alternate ease-in-out; }
+    .v8 { animation: a8 1.7s infinite alternate ease-in-out; }
+    .v9 { animation: a9 1.5s infinite alternate ease-in-out; }
+    
+    .dot { fill: #0D1117; stroke: #11F791; stroke-width: 2; opacity: 0; animation: pop 0.4s forwards; }
+    .d1 { animation-delay: 0.4s; }
+    .d2 { animation-delay: 0.8s; }
+    .d3 { animation-delay: 1.2s; }
+    .d4 { animation-delay: 1.6s; }
+    .d5 { animation-delay: 2.0s; }
+    
+    @keyframes drawLine { to { stroke-dashoffset: 0; } }
+    @keyframes fadeIn { to { opacity: 0.5; } }
+    @keyframes glow {
+      0% { filter: drop-shadow(0px 0px 2px rgba(17, 247, 145, 0.4)); }
+      100% { filter: drop-shadow(0px 0px 8px rgba(17, 247, 145, 0.9)); }
+    }
+    @keyframes pop {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    
+    @keyframes a1 { 0% { height: 10px; y: 190px; } 100% { height: 40px; y: 160px; } }
+    @keyframes a2 { 0% { height: 15px; y: 185px; } 100% { height: 30px; y: 170px; } }
+    @keyframes a3 { 0% { height: 20px; y: 180px; } 100% { height: 50px; y: 150px; } }
+    @keyframes a4 { 0% { height: 10px; y: 190px; } 100% { height: 35px; y: 165px; } }
+    @keyframes a5 { 0% { height: 25px; y: 175px; } 100% { height: 60px; y: 140px; } }
+    @keyframes a6 { 0% { height: 15px; y: 185px; } 100% { height: 25px; y: 175px; } }
+    @keyframes a7 { 0% { height: 10px; y: 190px; } 100% { height: 45px; y: 155px; } }
+    @keyframes a8 { 0% { height: 20px; y: 180px; } 100% { height: 55px; y: 145px; } }
+    @keyframes a9 { 0% { height: 15px; y: 185px; } 100% { height: 40px; y: 160px; } }
+  </style>
+  
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#11F791" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#11F791" stop-opacity="0.0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" rx="6" />
+
+  <!-- Background Grid -->
+  <line x1="20" y1="50" x2="380" y2="50" class="grid" />
+  <line x1="20" y1="100" x2="380" y2="100" class="grid" />
+  <line x1="20" y1="150" x2="380" y2="150" class="grid" />
+  <line x1="20" y1="200" x2="380" y2="200" class="grid" />
+
+  <text x="20" y="30" class="text">Key Competencies Analytics</text>
+  
+  <text x="375" y="45" class="subtext" text-anchor="end">Mastery</text>
+  <text x="375" y="95" class="subtext" text-anchor="end">Advanced</text>
+  <text x="375" y="145" class="subtext" text-anchor="end">Intermediate</text>
+  
+  <text x="50" y="225" class="subtext" text-anchor="middle">Python</text>
+  <text x="130" y="225" class="subtext" text-anchor="middle">AI/ML</text>
+  <text x="220" y="225" class="subtext" text-anchor="middle">Comp. Vision</text>
+  <text x="320" y="225" class="subtext" text-anchor="middle">Infra/Cloud</text>
+
+  <!-- Animated Background Volumes -->
+  <rect x="30" width="10" class="vol v1" />
+  <rect x="70" width="10" class="vol v2" />
+  <rect x="110" width="10" class="vol v3" />
+  <rect x="150" width="10" class="vol v4" />
+  <rect x="190" width="10" class="vol v5" />
+  <rect x="230" width="10" class="vol v6" />
+  <rect x="270" width="10" class="vol v7" />
+  <rect x="310" width="10" class="vol v8" />
+  <rect x="350" width="10" class="vol v9" />
+
+  <polygon points="20,200 50,60 130,40 220,80 320,110 380,50 380,200" class="area-chart" />
+  <polyline points="20,180 50,60 130,40 220,80 320,110 380,50" class="line-chart" />
+
+  <circle cx="50" cy="60" r="5" class="dot d1" />
+  <circle cx="130" cy="40" r="5" class="dot d2" />
+  <circle cx="220" cy="80" r="5" class="dot d3" />
+  <circle cx="320" cy="110" r="5" class="dot d4" />
+  <circle cx="380" cy="50" r="5" class="dot d5" />
+
+</svg>
