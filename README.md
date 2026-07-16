@@ -125,12 +125,7 @@
     </td>
     <td width="50%" align="center">
       <h3>🏆 Open Source Impact</h3>
-      <div align="left" style="padding: 10px;">
-        🌟 <b>GSoC 2025 Contributor</b> (INCF & Mifos)<br><br>
-        💼 <b>AI Intern @ Mifos Initiative</b><br><br>
-        🚀 <b>ML Engineer @ GENIE AI</b><br><br>
-        🌍 <b>Mentoring in Open Source AI/ML</b>
-      </div>
+      <img src="impact_dashboard.svg" alt="Open Source Impact Dashboard" width="100%" />
     </td>
   </tr>
   <tr>
