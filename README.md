@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,r,scala,pytorch,tensorflow,scikit,docker,git,linux,aws,azure,vercel,mysql&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,ts,r,scala,java,matlab,bash,html,css,nodejs,react,nextjs,tailwind,pytorch,tensorflow,docker,kubernetes,linux,ubuntu,aws,azure,gcp,cloudflare,vercel,git,github,githubactions,mysql,postgres&perline=16" alt="Tech Stack Icons" />
   </a>
 </p>
 <p align="center">
