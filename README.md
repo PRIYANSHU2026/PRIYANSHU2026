@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Priyanshu%20Tiwari&fontSize=80&animation=twinkling&fontAlignY=35&desc=AI%20Researcher%20|%20Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" />
+</div>
+
 <h1 align="center"> 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Priyanshu+Tiwari;Machine+Learning+Engineer+🤖;AI+Researcher+🧠;Open+Source+Contributor+🚀;From+India+🇮🇳" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=11F791&background=3BFFFD00&vCenter=true&width=600&height=40&lines=Hi+👋,+I'm+Priyanshu+Tiwari;Machine+Learning+Engineer+🤖;AI+Researcher+🧠;Open+Source+Contributor+🚀;From+India+🇮🇳" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -24,6 +28,20 @@ I am a Machine Learning Engineer and AI Researcher passionate about Large Langua
 
 ---
 
+## 💻 Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,r,scala,pytorch,tensorflow,scikit,docker,git,linux,aws,azure,vercel,mysql&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Transformers | LLMs | Prompt Engineering | OpenCV | MediaPipe | NLTK | ETL Pipelines</i>
+</p>
+
+---
+
 ## 💼 Experience
 
 - **Machine Learning Engineer** @ **GENIE AI** *(Dec 2025 – Present)*
@@ -40,46 +58,6 @@ I am a Machine Learning Engineer and AI Researcher passionate about Large Langua
 - **ML Research Intern** @ **DRDO – MTRDC** *(Nov – Dec 2024)*
   - Developed Feedforward Neural Network (FNN) to predict Traveling Wave Tube frequency in 26.5–40 GHz Ka-band; achieved 92% accuracy.
   - Enhanced defense-grade frequency control mechanisms through neural architecture optimization.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-### 🧠 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<br>
-*Transformers | LLMs | Prompt Engineering*
-
-### 👁️ Computer Vision & NLP
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00B4EB?style=for-the-badge&logo=mediapipe&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-<br>
-*Mistral | NLTK*
-
-### ⚙️ Infrastructure, DevOps & Databases
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-<br>
-*ETL Pipelines*
 
 ---
 
@@ -126,11 +104,20 @@ I am a Machine Learning Engineer and AI Researcher passionate about Large Langua
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Activity & Contributions
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&theme=radical&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <h3>🐍 My GitHub Contributions Snake 🐍</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
