@@ -130,14 +130,8 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🐍 Contribution Activity</h3>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution snake" src="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg" width="100%">
-      </picture>
-      <br>
-      <i>Note: Push this README to trigger the Snake Action to render here!</i>
+      <h3>💻 Top Languages</h3>
+      <img src="top_languages.svg" alt="Top Languages Dashboard" width="100%" />
     </td>
     <td width="50%" align="center">
       <h3>💻 Key Competencies</h3>
@@ -145,3 +139,16 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+  <h3>🐍 GitHub Contributions Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  <br>
+  <i>(Note: Push this README to GitHub to trigger the Snake Action and render the animation!)</i>
+</div>
