@@ -141,12 +141,7 @@
     </td>
     <td width="50%" align="center">
       <h3>💻 Key Competencies</h3>
-      <div align="left" style="padding: 10px;">
-        🐍 <b>Python</b> (Rank 1 - HackerRank)<br><br>
-        🤖 <b>AI/ML</b> (PyTorch, TensorFlow, LLMs)<br><br>
-        👁️ <b>Computer Vision</b> (OpenCV, MediaPipe)<br><br>
-        🌐 <b>Infrastructure</b> (Docker, AWS, Azure)
-      </div>
+      <img src="core_skills_chart.svg" alt="Core Skills Analytics Dashboard" width="100%" />
     </td>
   </tr>
 </table>
