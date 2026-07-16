@@ -3,40 +3,90 @@
     .bg { fill: #0D1117; }
     .text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #ffffff; font-size: 15px; font-weight: 600; }
     .subtext { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #8b949e; font-size: 13px; font-weight: 500; }
-    .bar-bg { fill: #21262d; rx: 5; }
-    .bar-py { fill: #3572A5; rx: 5; } 
-    .bar-cpp { fill: #f34b7d; rx: 5; } 
-    .bar-js { fill: #f1e05a; rx: 5; } 
-    .bar-jup { fill: #DA5B0B; rx: 5; } 
-    .pct { fill: #ffffff; font-size: 12px; font-weight: bold; font-family: monospace; }
-    @keyframes load { from { width: 0; } }
-    .anim { animation: load 1.2s ease-out forwards; }
+    
+    .segment {
+      fill: transparent;
+      stroke-width: 28;
+      transform-origin: 120px 130px;
+      transform: rotate(-90deg);
+      transition: all 0.3s ease;
+    }
+    
+    .py { stroke: #3572A5; stroke-dasharray: 180 220; stroke-dashoffset: 0; }
+    .cpp { stroke: #f34b7d; stroke-dasharray: 100 300; stroke-dashoffset: -180; }
+    .js { stroke: #f1e05a; stroke-dasharray: 60 340; stroke-dashoffset: -280; }
+    .rs { stroke: #DA5B0B; stroke-dasharray: 40 360; stroke-dashoffset: -340; }
+    .sql { stroke: #11F791; stroke-dasharray: 20 380; stroke-dashoffset: -380; }
+    
+    /* Cover animation to reveal the pie clockwise */
+    .reveal {
+      fill: transparent;
+      stroke: #0D1117;
+      stroke-width: 30;
+      stroke-dasharray: 400;
+      stroke-dashoffset: 0;
+      transform-origin: 120px 130px;
+      transform: rotate(-90deg);
+      animation: revealAnim 1.5s cubic-bezier(0.65, 0, 0.35, 1) forwards;
+    }
+    
+    @keyframes revealAnim {
+      to { stroke-dashoffset: 400; }
+    }
+    
+    /* Fade in legend items */
+    .legend-item { opacity: 0; animation: fadeIn 0.5s ease forwards; }
+    .l1 { animation-delay: 0.3s; }
+    .l2 { animation-delay: 0.6s; }
+    .l3 { animation-delay: 0.9s; }
+    .l4 { animation-delay: 1.2s; }
+    .l5 { animation-delay: 1.5s; }
+    
+    @keyframes fadeIn { to { opacity: 1; } }
   </style>
+
   <rect width="100%" height="100%" class="bg" rx="6" />
 
-  <g transform="translate(20, 20)">
-    <!-- Python -->
-    <text x="0" y="20" class="subtext">Python</text>
-    <text x="360" y="20" class="pct" text-anchor="end">48.2%</text>
-    <rect x="0" y="30" width="360" height="14" class="bar-bg" />
-    <rect x="0" y="30" width="173" height="14" class="bar-py anim" style="animation-delay: 0.1s" />
+  <text x="20" y="30" class="text">Top Languages Distribution</text>
 
-    <!-- C++ -->
-    <text x="0" y="75" class="subtext">C++</text>
-    <text x="360" y="75" class="pct" text-anchor="end">22.5%</text>
-    <rect x="0" y="85" width="360" height="14" class="bar-bg" />
-    <rect x="0" y="85" width="81" height="14" class="bar-cpp anim" style="animation-delay: 0.3s" />
+  <!-- Donut Background -->
+  <circle cx="120" cy="130" r="63.66" fill="transparent" stroke="#21262d" stroke-width="28" />
 
-    <!-- JavaScript -->
-    <text x="0" y="130" class="subtext">JavaScript</text>
-    <text x="360" y="130" class="pct" text-anchor="end">18.4%</text>
-    <rect x="0" y="140" width="360" height="14" class="bar-bg" />
-    <rect x="0" y="140" width="66" height="14" class="bar-js anim" style="animation-delay: 0.5s" />
+  <!-- Segments -->
+  <circle cx="120" cy="130" r="63.66" class="segment py" />
+  <circle cx="120" cy="130" r="63.66" class="segment cpp" />
+  <circle cx="120" cy="130" r="63.66" class="segment js" />
+  <circle cx="120" cy="130" r="63.66" class="segment rs" />
+  <circle cx="120" cy="130" r="63.66" class="segment sql" />
 
-    <!-- Jupyter Notebook -->
-    <text x="0" y="185" class="subtext">Jupyter Notebook</text>
-    <text x="360" y="185" class="pct" text-anchor="end">10.9%</text>
-    <rect x="0" y="195" width="360" height="14" class="bar-bg" />
-    <rect x="0" y="195" width="39" height="14" class="bar-jup anim" style="animation-delay: 0.7s" />
+  <!-- The Reveal mask -->
+  <circle cx="120" cy="130" r="63.66" class="reveal" />
+  
+  <!-- Donut Inner Text -->
+  <text x="120" y="125" class="text" text-anchor="middle" font-size="16">Python</text>
+  <text x="120" y="145" class="subtext" text-anchor="middle">Majority</text>
+
+  <!-- Legend -->
+  <g transform="translate(230, 65)">
+    <g class="legend-item l1">
+      <circle cx="0" cy="0" r="6" fill="#3572A5" />
+      <text x="15" y="4" class="text" font-size="13">Python (45%)</text>
+    </g>
+    <g class="legend-item l2" transform="translate(0, 30)">
+      <circle cx="0" cy="0" r="6" fill="#f34b7d" />
+      <text x="15" y="4" class="text" font-size="13">C/C++ (25%)</text>
+    </g>
+    <g class="legend-item l3" transform="translate(0, 60)">
+      <circle cx="0" cy="0" r="6" fill="#f1e05a" />
+      <text x="15" y="4" class="text" font-size="13">JavaScript (15%)</text>
+    </g>
+    <g class="legend-item l4" transform="translate(0, 90)">
+      <circle cx="0" cy="0" r="6" fill="#DA5B0B" />
+      <text x="15" y="4" class="text" font-size="13">R &amp; Scala (10%)</text>
+    </g>
+    <g class="legend-item l5" transform="translate(0, 120)">
+      <circle cx="0" cy="0" r="6" fill="#11F791" />
+      <text x="15" y="4" class="text" font-size="13">SQL &amp; HTML (5%)</text>
+    </g>
   </g>
 </svg>
