@@ -56,13 +56,9 @@
   Experience
 </h2>
 
-| 📅 Date | 🏢 Role & Organization | 🛠️ Key Contributions |
-| :---: | :--- | :--- |
-| **Dec 2025 - Present** | **Machine Learning Engineer**<br>@ *GENIE AI* | 🔹 Developing BOS with LLM-powered communication.<br>🔹 Engineering Avatar FX modules & AI inference pipelines. |
-| **Feb 2025 - Present** | **Mentor (AI/ML)**<br>@ *GSoC 2026* | 🔹 Mentoring on LLM integration (Mifos X).<br>🔹 Guiding on transformer architectures & ML workflows. |
-| **May 2025 - Sep 2025** | **Contributor**<br>@ *GSoC 2025 (INCF)* | 🔹 Designed transformer-based LLM for Harmony Hub.<br>🔹 Reduced adaptive content generation latency. |
-| **May 2025 - Sep 2025** | **AI Intern**<br>@ *Mifos Initiative* | 🔹 Built Bank Statement Analyzer Phase 2 (NLP).<br>🔹 Engineered ML recommendation & risk indicator models. |
-| **Nov 2024 - Dec 2024** | **ML Research Intern**<br>@ *DRDO - MTRDC* | 🔹 Developed FNN for Ka-band TWTA frequency (92% Acc).<br>🔹 Enhanced defense-grade frequency control mechanisms. |
+<div align="center">
+  <img src="experience_timeline.svg" alt="Experience Timeline" width="100%" />
+</div>
 
 ---
 

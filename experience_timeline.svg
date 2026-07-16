@@ -1,0 +1,101 @@
+<svg width="800" height="620" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#11F791" stop-opacity="1" />
+      <stop offset="100%" stop-color="#3572A5" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <style>
+    .bg { fill: transparent; }
+    .line { stroke: url(#lineGrad); stroke-width: 4; stroke-linecap: round; stroke-dasharray: 600; stroke-dashoffset: 600; animation: drawLine 2s ease-out forwards; }
+    .node { fill: #0D1117; stroke: #11F791; stroke-width: 3; }
+    .node-inner { fill: #11F791; animation: glow 1.5s infinite alternate; }
+    
+    .card { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 8; filter: url(#shadow); }
+    .date { fill: #8b949e; font-size: 14px; font-weight: 600; text-anchor: end; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .role { fill: #ffffff; font-size: 17px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .company { fill: #11F791; font-weight: bold; }
+    .desc { fill: #c9d1d9; font-size: 13.5px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    
+    .item { opacity: 0; animation: slideIn 0.8s cubic-bezier(0.25, 1, 0.5, 1) forwards; }
+    .item-1 { animation-delay: 0.2s; }
+    .item-2 { animation-delay: 0.6s; }
+    .item-3 { animation-delay: 1.0s; }
+    .item-4 { animation-delay: 1.4s; }
+    .item-5 { animation-delay: 1.8s; }
+    
+    @keyframes drawLine { to { stroke-dashoffset: 0; } }
+    @keyframes slideIn { 
+      0% { opacity: 0; transform: translateX(30px); }
+      100% { opacity: 1; transform: translateX(0); }
+    }
+    @keyframes glow { 
+      0% { opacity: 0.4; } 
+      100% { opacity: 1; } 
+    }
+  </style>
+
+  <rect width="100%" height="100%" class="bg" rx="10" />
+
+  <!-- Timeline Line -->
+  <line x1="200" y1="30" x2="200" y2="580" class="line" />
+
+  <!-- Item 1 -->
+  <g class="item item-1">
+    <text x="175" y="50" class="date">Dec 2025 - Present</text>
+    <circle cx="200" cy="45" r="8" class="node" />
+    <circle cx="200" cy="45" r="4" class="node-inner" />
+    <rect x="230" y="20" width="540" height="85" class="card" />
+    <text x="250" y="47" class="role">Machine Learning Engineer <tspan class="company">@ GENIE AI</tspan></text>
+    <text x="250" y="70" class="desc">🔹 Developing BOS with LLM-powered communication.</text>
+    <text x="250" y="90" class="desc">🔹 Engineering Avatar FX modules &amp; AI inference pipelines.</text>
+  </g>
+
+  <!-- Item 2 -->
+  <g class="item item-2">
+    <text x="175" y="170" class="date">Feb 2025 - Present</text>
+    <circle cx="200" cy="165" r="8" class="node" />
+    <circle cx="200" cy="165" r="4" class="node-inner" />
+    <rect x="230" y="140" width="540" height="85" class="card" />
+    <text x="250" y="167" class="role">Mentor (AI/ML) <tspan class="company">@ GSoC 2026</tspan></text>
+    <text x="250" y="190" class="desc">🔹 Mentoring on LLM integration (Mifos X).</text>
+    <text x="250" y="210" class="desc">🔹 Guiding on transformer architectures &amp; ML workflows.</text>
+  </g>
+
+  <!-- Item 3 -->
+  <g class="item item-3">
+    <text x="175" y="290" class="date">May 2025 - Sep 2025</text>
+    <circle cx="200" cy="285" r="8" class="node" />
+    <circle cx="200" cy="285" r="4" class="node-inner" />
+    <rect x="230" y="260" width="540" height="85" class="card" />
+    <text x="250" y="287" class="role">Contributor <tspan class="company">@ GSoC 2025 (INCF)</tspan></text>
+    <text x="250" y="310" class="desc">🔹 Designed transformer-based LLM for Harmony Hub.</text>
+    <text x="250" y="330" class="desc">🔹 Reduced adaptive content generation latency.</text>
+  </g>
+
+  <!-- Item 4 -->
+  <g class="item item-4">
+    <text x="175" y="410" class="date">May 2025 - Sep 2025</text>
+    <circle cx="200" cy="405" r="8" class="node" />
+    <circle cx="200" cy="405" r="4" class="node-inner" />
+    <rect x="230" y="380" width="540" height="85" class="card" />
+    <text x="250" y="407" class="role">AI Intern <tspan class="company">@ Mifos Initiative</tspan></text>
+    <text x="250" y="430" class="desc">🔹 Built Bank Statement Analyzer Phase 2 (NLP).</text>
+    <text x="250" y="450" class="desc">🔹 Engineered ML recommendation &amp; risk indicator models.</text>
+  </g>
+
+  <!-- Item 5 -->
+  <g class="item item-5">
+    <text x="175" y="530" class="date">Nov 2024 - Dec 2024</text>
+    <circle cx="200" cy="525" r="8" class="node" />
+    <circle cx="200" cy="525" r="4" class="node-inner" />
+    <rect x="230" y="500" width="540" height="85" class="card" />
+    <text x="250" y="527" class="role">ML Research Intern <tspan class="company">@ DRDO - MTRDC</tspan></text>
+    <text x="250" y="550" class="desc">🔹 Developed FNN for Ka-band TWTA frequency (92% Acc).</text>
+    <text x="250" y="570" class="desc">🔹 Enhanced defense-grade frequency control mechanisms.</text>
+  </g>
+</svg>
