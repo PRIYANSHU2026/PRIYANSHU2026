@@ -114,21 +114,44 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" height="35" /> 
-  GitHub Activity & Stats
+  GitHub Activity & Impact Dashboard
 </h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIYANSHU2026&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=11F791&text_color=ffffff&icon_color=11F791" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&theme=radical&hide_border=true&background=0D1117&ring=11F791&fire=11F791&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=11F791&sideLabels=ffffff&dates=ffffff" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🐍 My GitHub Contributions Snake 🐍</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRIYANSHU2026&theme=radical&hide_border=true&background=0D1117&ring=11F791&fire=11F791&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=11F791&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🏆 Open Source Impact</h3>
+      <div align="left" style="padding: 10px;">
+        🌟 <b>GSoC 2025 Contributor</b> (INCF & Mifos)<br><br>
+        💼 <b>AI Intern @ Mifos Initiative</b><br><br>
+        🚀 <b>ML Engineer @ GENIE AI</b><br><br>
+        🌍 <b>Mentoring in Open Source AI/ML</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🐍 Contribution Activity</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution snake" src="https://raw.githubusercontent.com/PRIYANSHU2026/PRIYANSHU2026/output/github-contribution-grid-snake.svg" width="100%">
+      </picture>
+      <br>
+      <i>Note: Push this README to trigger the Snake Action to render here!</i>
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 Key Competencies</h3>
+      <div align="left" style="padding: 10px;">
+        🐍 <b>Python</b> (Rank 1 - HackerRank)<br><br>
+        🤖 <b>AI/ML</b> (PyTorch, TensorFlow, LLMs)<br><br>
+        👁️ <b>Computer Vision</b> (OpenCV, MediaPipe)<br><br>
+        🌐 <b>Infrastructure</b> (Docker, AWS, Azure)
+      </div>
+    </td>
+  </tr>
+</table>
